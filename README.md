@@ -28,3 +28,5 @@ I am a WEB Developer from Bihar, India. :india: Currently, I'm a 6th Semester st
 * NodeJS
 * AJAX
 * MySQL
+
+**सर्वं सम्भाव्यते त्वयि । 🚩**
