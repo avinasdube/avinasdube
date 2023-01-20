@@ -4,15 +4,11 @@ I am a WEB Developer from Bihar, India. :india: Currently, I'm a 6th Semester st
 
 ### Following are my completed projects :
 
-> A Material UI Calculator Web App.
-
-> A To-Do Web App.
-
-> A Real-Time Chat Web App.
-
-> A Resume Builder Web App.
-
-> A React Website For Drink Brand.
+1. A Material UI Calculator Web App.
+2. A To-Do Web App.
+3. A Real-Time Chat Web App.
+4. A Resume Builder Web App.
+5. A React Website For Drink Brand.
 
 ### Following are my known languages and technologies :
 
