@@ -1,16 +1,34 @@
-### Namaste, I'm Avinash Dubey. 👋
+### Namaste, I'm Avinash Dubey. :pray:
 
-<!--
-**avinasdube/avinasdube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a WEB Developer from Bihar, India. :india: Currently, I'm a 6th Semester student of BCA from IGNOU, Patna. I've developed various projects related to Web Development. I love to code and build cool and useful software. I'm an obsessed photographer and sketcher.
 
-Here are some ideas to get you started:
+### Following are my completed projects :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> A Material UI Calculator Web App.
+
+> A To-Do Web App.
+
+> A Real-Time Chat Web App.
+
+> A Resume Builder Web App.
+
+> A React Website For Drink Brand.
+
+### Following are my known languages and technologies :
+
+> **LANGUAGES**
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* C
+* C++
+* SQL
+
+> **TECHNOLOGIES**
+
+* ReactJS
+* NodeJS
+* AJAX
+* MySQL
