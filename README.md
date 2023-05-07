@@ -1,4 +1,4 @@
-###Namaste, I'm Avinash Dubey. :pray:
+### Namaste, I'm Avinash Dubey. :pray:
 
 I am a WEB Developer from Bihar, India. :india: Currently, I'm a 6th Semester student of BCA from IGNOU, Patna. I've developed various projects related to Web Development. I love to code and build cool and useful software. I'm an obsessed photographer and sketcher.
 
@@ -10,7 +10,7 @@ I am a WEB Developer from Bihar, India. :india: Currently, I'm a 6th Semester st
 4. A Resume Builder Web App.
 5. A React Website For Drink Brand.
 
-###Following are my known languages and technologies :
+### Following are my known languages and technologies :
 
 > **LANGUAGES**
 
@@ -22,7 +22,7 @@ I am a WEB Developer from Bihar, India. :india: Currently, I'm a 6th Semester st
 * C++
 * SQL
 
->**TECHNOLOGIES**
+> **TECHNOLOGIES**
 
 * ReactJS
 * NodeJS
