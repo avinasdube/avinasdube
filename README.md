@@ -16,19 +16,14 @@ I am a WEB Developer from Bihar, India. :india: Currently, I'm a 6th Semester st
 
 > **LANGUAGES**
 
-* HTML
-* CSS
-* JavaScript
-* PHP
-* C
-* C++
-* SQL
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,php)](https://skillicons.dev)
 
-> **TECHNOLOGIES**
+> **SKILLS**
 
-* ReactJS
-* NodeJS
-* AJAX
-* MySQL
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql,git,github)](https://skillicons.dev)
+
+[![Avinash's github stats](https://github-readme-stats.vercel.app/api?username=avinasdube&theme=vision-friendly-dark)](https://github.com/avinasdube/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinasdube&layout=compact&theme=vision-friendly-dark)](https://github.com/avinasdube/github-readme-stats)
 
 **सर्वं सम्भाव्यते त्वयि । 🚩**
