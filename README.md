@@ -24,6 +24,8 @@ I am a WEB Developer from Bihar, India. :india: Currently, I'm a 6th Semester st
 
 [![Avinash's github stats](https://github-readme-stats.vercel.app/api?username=avinasdube&theme=vision-friendly-dark)](https://github.com/avinasdube/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinasdube&layout=compact&theme=vision-friendly-dark)](https://github.com/avinasdube/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinasdube&theme=vision-friendly-dark&card_width=450&custom_title=Most%20Used%20Languages%20By%20Avinash%20Dubey)](https://github.com/avinasdube/github-readme-stats)
+
+![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinasdube&show_icons=true&theme=vision-friendly-dark&card_width=450)
 
 **सर्वं सम्भाव्यते त्वयि । 🚩**
