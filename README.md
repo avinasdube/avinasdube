@@ -1,4 +1,4 @@
-### Namaste, I'm Avinash Dubey. :pray:
+### Namaskar, I'm Avinash Dubey. 🙏
 
 I am a WEB Developer from Bihar, India. :india: Currently, I'm a 6th Semester student of BCA from IGNOU, Patna. I've developed various projects related to Web Development. I love to code and build cool and useful software. I'm an obsessed photographer and sketcher.
 
