@@ -6,7 +6,9 @@ Hi there! I'm Avinash Dubey, a web developer with a passion for creating dynamic
 
 In my work, I prioritize user experience and accessibility, always striving to create websites that are not only aesthetically pleasing but also easy to navigate and use.
 
-Outside of work, I love staying up-to-date with the latest trends and technologies in the web development world. Whether it's experimenting with new frameworks or learning about emerging design patterns, I am always eager to expand my knowledge and skills. If you're interested in collaborating on a project or simply want to connect with me, feel free to reach out. Let's build something amazing together!
+Outside of work, I love staying up-to-date with the latest trends and technologies in the web development world. Whether it's experimenting with new frameworks or learning about emerging design patterns, I am always eager to expand my knowledge and skills. 
+
+If you're interested in collaborating on a project or simply want to connect with me, feel free to reach out. Let's build something amazing together!
 
 ### Following are my completed projects :
 
