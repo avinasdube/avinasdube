@@ -2,7 +2,7 @@
 
 ### Namaskar, I'm Avinash Dubey. 🙏
 
-Hi there! I'm Avinash Dubey, a web developer with a passion for creating dynamic and user-friendly websites. I have developed a diverse set of skills in web development, including proficiency in languages like HTML, CSS, JavaScript, and PHP. I believe that clean and organized code is key to building successful websites that are both efficient and easy to maintain. 
+I'm a web developer with a passion for creating dynamic and user-friendly websites. I have developed a diverse set of skills in web development, including proficiency in languages like HTML, CSS, JavaScript, and PHP. I believe that clean and organized code is key to building successful websites that are both efficient and easy to maintain. 
 
 In my work, I prioritize user experience and accessibility, always striving to create websites that are not only aesthetically pleasing but also easy to navigate and use.
 
