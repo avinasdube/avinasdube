@@ -16,7 +16,8 @@ If you're interested in collaborating on a project or simply want to connect wit
 2. A To-Do Web App.
 3. A Real-Time Chat Web App.
 4. A Resume Builder Web App.
-5. A React Website For Drink Brand.
+5. A Full Stack Blogging App in MERN.
+6. A Full Stack E-Commerce App in MERN.
 
 ### Following are my known languages and technologies :
 
