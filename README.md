@@ -1,7 +1,11 @@
-Namaskar 🙏, I'm Avinash Dubey - a Web Developer proficient in MERN stack. I love building web projects and I have a keen interest in Poetry.
-I have built some of the best looking and performing MERN applications which you should definitely give a look and star, if you are here on my profile.
-My best projects are : 
+# **Namaskar** 🙏
 
-1. Menhew
-2. ListDown
-3. Weather.in
+I'm Avinash Dubey - a Web Developer proficient in MERN stack. 
+
+I'm proud developer of [menhew](https://menhew.onrender.com) and [listdown](https://listdown.onrender.com).
+
+I see programming as poetry, as I'm a weekend poet.
+
+Currently, exploring the world of AI and Machine Learning.
+
+Connect with me [@avinaasdube](https://twitter.com/avinaasdube) on twitter.
