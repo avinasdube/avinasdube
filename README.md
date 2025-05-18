@@ -49,11 +49,11 @@ I'm **Avinash Dubey** — a developer exploring the frontiers of **Artificial In
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=avinasdube&show_icons=true&theme=github_dark" alt="Avinash's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinasdube&theme=github-dark" alt="GitHub Streak" width="48%" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinasdube&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
